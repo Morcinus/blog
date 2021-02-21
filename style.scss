@@ -203,7 +203,18 @@ img {
   }
 }
 
+@font-face {
+  font-family: "Quicksand";
+  src: url("https://morcinus.github.io/assets/Quicksand-Bold.ttf");
+}
+
+@font-face {
+  font-family: "Nunito";
+  src: url("https://morcinus.github.io/assets/Nunito-Regular.ttf");
+}
+
 .site-name {
+  font-family: "Quicksand";
   margin: 0;
   color: $darkGray;
   cursor: pointer;
@@ -211,25 +222,16 @@ img {
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
-
-  @font-face {
-    font-family: "Quicksand";
-    src: url("https://morcinus.github.io/assets/Quicksand-Bold.ttf");
-  }
 }
 
 .site-description {
+  font-family: "Nunito";
   margin: -5px 0 0 0;
   color: $gray;
   font-size: 16px;
 
   @include mobile {
     margin: 3px 0;
-  }
-
-  @font-face {
-    font-family: "Nunito";
-    src: url("https://morcinus.github.io/assets/Nunito-Regular.ttf");
   }
 }
 
