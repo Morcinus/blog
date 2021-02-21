@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Závislost na internetu, TV a hrách
+title: Závislost na sociálních sítích, TV a hrách
 ---
 
 Poslední dobou docela přemýšlím o tom, jak sociální sítě, videa na YouTubu, televize a hry ovlivňují náš život. Kolem tohoto tématu se tak nějak motám celý život, jednak protože jsem sám závislý a jednak protože to nejspíše bude má práce furt se motat kolem technologií.
@@ -15,7 +15,7 @@ Problém je ten, že i když každý z nás denně používá internet, sociáln
 
 V anglickém slovníku Cambridge je nádherná definice závislosti:
 
-"Addiction is an inability to stop doing or using something, especially something harmful."
+> "Addiction is an inability to stop doing or using something, especially something harmful."
 
 Schválně, jak dlouho vydržíte bez mobilu, počítače nebo televize? Hodinu? Dvě? Dobrým testem závislosti je zkusit vydržet měsíc (ideálně 3) kompletně bez sociálních sítí, her a televize. Schválně. Zkuste to. ;)
 
@@ -63,6 +63,6 @@ No nic, pokud to někdo dočetl až sem, tak jste dobrý :D Sice to bylo trochu 
 
 ### Odkazy:
 
-Sociální dilema: https://www.csfd.cz/film/812238-socialni-dilema/prehled/
-Apka na blokování webů/aplikací: https://play.google.com/store/apps/details?id=com.stayfocused
-Program na blokování webů/aplikací: https://getcoldturkey.com/
+- Sociální dilema: <https://www.csfd.cz/film/812238-socialni-dilema/prehled/>
+- Apka na blokování webů/aplikací: <https://play.google.com/store/apps/details?id=com.stayfocused>
+- Program na blokování webů/aplikací: <https://getcoldturkey.com/>
