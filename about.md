@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Kdybyste někdy vzali čaj, zalezli pod deku ke krbu a začali přemýšlet o životě a vesmíru, tak by výsledkem toho mohlo vzniknout něco jako tento blog.
 
-### More Information
+Nemá to nějaký daný směr ani cíl.. Prostě sem píšu, co se mi zrovna honí hlavou.
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Přeju příjemné počtení :)
