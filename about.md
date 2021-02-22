@@ -8,6 +8,6 @@ Kdybyste někdy vzali čaj, zalezli pod deku ke krbu a začali přemýšlet o ž
 
 Nemá to nějaký konkrétní důvod ani cíl.. Prostě sem píšu, co se mi zrovna honí hlavou.
 
-Přeju příjemné počtení :)
+Přeju příjemné počtení :D
 
-P.S.: Jestli to fakt někdo reálně přečtete, tak mi to napište :D Udělá mi to radost
+P.S.: Jestli to fakt někdo reálně přečtete, tak mi dejte vědět :D Udělá mi to radost
