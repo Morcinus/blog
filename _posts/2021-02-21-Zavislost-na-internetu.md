@@ -3,7 +3,7 @@ layout: post
 title: Závislost na sociálních sítích, TV a hrách
 ---
 
-Poslední dobou docela přemýšlím o tom, jak sociální sítě, videa na YouTubu, televize a hry ovlivňují náš život. Kolem tohoto tématu se tak nějak motám celý život, jednak protože jsem sám závislý a jednak protože to nejspíše bude má práce furt se motat kolem technologií.
+Poslední dobou docela přemýšlím o tom, jak sociální sítě, videa na YouTubu, televize a hry ovlivňují náš život. Kolem tohoto tématu se tak nějak motám celý život, jednak protože jsem sám závislák a jednak protože to nejspíše bude má práce furt se motat kolem technologií.
 
 ### V čem je problém?
 
@@ -13,7 +13,7 @@ Problém je ten, že i když každý z nás denně používá internet, sociáln
 
 ### Proč by to vůbec měla být závislost? Vždyť pár minut denně nikomu neuškodí...
 
-V anglickém slovníku Cambridge je nádherná definice závislosti:
+V anglickém slovníku Cambridge je docela trefná definice závislosti:
 
 > "Addiction is an inability to stop doing or using something, especially something harmful."
 
@@ -23,11 +23,11 @@ Schválně, jak dlouho vydržíte bez mobilu, počítače nebo televize? Hodinu?
 
 Možná si říkáte, že něco tak "drobného", jako jsou sociální sítě, nemůže nikomu uškodit. Vždyť to je přece _zábava_. U každého nového postu na sociální síti váš mozek vypustí _dopamin_ a podobné látky, které způsobují pocit zábavy a potěšení.
 
-Problém ale je, že _opravdová zábava_ to je jen v případě, že mozek tyto látky vypouští jednou za čas. Musíte dát svému tělu _odpočinek_ po tom, co mozek vypustí větší množství těchto látek. Bez něj se tělo unavuje a vás samotné daná aktivita přestává bavit.
+Problém ale je, že _opravdová zábava_ to je jen v případě, že mozek tyto látky vypouští jednou za čas a má _dostatek času na odpočinek_ od těchto látek. Váš mozek si musí odpočinout po tom, co vypustí větší množství _dopaminu apod._, jinak se neustále unavuje, stává se z toho závislost a vás samotné daná aktivita přestává bavit (protože ji děláte automaticky _podvědomě_ a zvykáte si na ten dopamin).
 
 Závislost způsobuje to, že pořád víc a víc toužíte po těchto látkách a ani nedáváte svému mozku šanci odpočinout. Každým půlhodinovým scrollováním na Instagramu (nebo nedej bože TikToku :D) předávkujete svůj mozek těmito látkami.
 
-Toho si můžete jednoduše všimnout - už po několika minutách scrollování vás to tolik _nebaví_ a děláte to tak nějak _automaticky_.
+Toho si můžete jednoduše všimnout - už po několika minutách scrollování vás to tolik _nebaví_, jako dřív, a děláte to tak nějak _automaticky_.
 
 Kvůli tomu jste se dostali přesně do stavu, kde vás algoritmy sociálních sítí/televize/her chtějí mít. Stav, kdy _bezhlavě ztrácíte čas_, kdy nad sebou _nemáte kontrolu_, protože místo vás pracuje vaše _podvědomí_. Bezhlavě scrollujete dál a dál, až se po půl hodině nebo i několika hodinách proberete.
 
