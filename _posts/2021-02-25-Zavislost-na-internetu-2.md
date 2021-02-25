@@ -57,7 +57,7 @@ Co teda s tím? No, jak už jsem psal minule, a nebude se vám to líbit, nejrad
 
 Pro každého to je něco jiného. Možná zas tak nedokážete pochopit, jak někdo může být závislý na hrách nebo třeba na Netflixu nebo YouTubu.. Každý má jinou závislost, každý je jiný.
 
-Jestli s tím chcete něco dělat (což velice doporučuju :D), přijděte na to, co je vaše největší závislost, sepište na papír všechny důvody, proč se váš mozek přichycuje zrovna na tuto závislost. Napište taky jakým způsobem to ovlivňuje váš život a co byste mohli místo toho dělat jiného.. Před jakými problémy třeba utíkáte (jestli to je zdrovna váš důvod proč závislačíte)..
+Jestli s tím chcete něco dělat (což velice doporučuju :D), přijděte na to, co je vaše největší závislost, sepište na papír všechny důvody, proč se váš mozek přichycuje zrovna na tuto závislost. Napište taky jakým způsobem to ovlivňuje váš život a co byste mohli místo toho dělat jiného.. Před jakými problémy třeba utíkáte (jestli to je zrovna váš důvod proč závislačíte)..
 
 Dejte si od té závislosti pauzu. Minimálně na týden, pak na dva, na měsíc.. Nemusíte přestat navždy (často to ani není reálné), jen je třeba ze začátku odtrhnout ten mozek od zdroje závislosti.. Pak se můžete zase vrátit a závislačit v _rozumném množství_ (to je třeba 0-4h týdně!). Jen berte na vědomí, že je docela těžké do toho zase nespadnout.
 
