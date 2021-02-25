@@ -1,3 +1,8 @@
+---
+layout: post
+title: Závislost na internetu #2
+---
+
 V předchozím postu jsem trochu nastínil problém internetu, trochu jsem popsal ty "méně děsivé" a populární věci o závislostech na TV/hrách/sociálních sítích/internetu.
 
 Řešil jsem hlavně ty povrchní informace, jak o sobě každý může prohlásit "No tak jsem závislák. Vždyť to nic neznamená. Vždyť o nic nejde..". Tentokrát bych se chtěl trochu ponořit na tu opravdu temnou stránku závislosti na internetu (obecně TV/YouTube/sociální sítě/hry budu pro jednoduchost nazývat internetem, ale platí to pro vše). Chtěl bych vám ukázat, jak špatná ta situace reálně je.
