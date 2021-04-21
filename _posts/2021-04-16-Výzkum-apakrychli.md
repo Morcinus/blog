@@ -31,7 +31,7 @@ K jako Krychle? No nebylo by se čemu divit, ostatně počátky naší matematik
 
 Ještě matoucí mi přijde souvislost pojmu appa s Indií. Appa totiž v jazyce Tamilština znamená Otec nebo Táta. To se ostatně promítlo i do angličtiny, kde podle Oxfordského slovníku appa znamená _a father_ (V Indické angličtině). https://www.oxfordlearnersdictionaries.com/definition/english/appa
 
-Možná si říkáte, jak by se mohlo změnit appa na apa? Vysvětlení by mohlo být jednodušší, než se zdá. Indie je centrem programátorů, kteří vyučují na YouTubu své světaznámé techniky programování svých tutoriálů, které bývají uctívány mnoha studenty programátorských škol. Programátoři všechny pojmy zkracují (viz předmět PS1 ... ukažte mi slovo, pro které není v terminálu zkratka). Touto cestou se teoreticky mohl v průběhu evoluce jazyků změnit původní pojem appa na apa.
+Možná si říkáte, jak by se mohlo změnit appa na apa? Vysvětlení by mohlo být jednodušší, než se zdá. Indie je centrem programátorů, kteří vyučují na YouTubu své světaznámé techniky programování, které bývají uctívány mnoha studenty programátorských škol. Programátoři všechny pojmy zkracují (viz předmět PS1 ... ukažte mi slovo, pro které není v terminálu zkratka). Touto cestou se teoreticky mohl v průběhu evoluce jazyků změnit původní pojem appa na apa.
 
 #### Apakrychle == otec?
 
