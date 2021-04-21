@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Závislost na internetu #2
+title: Závislost na internetu \#2
 ---
 
 V předchozím postu jsem trochu nastínil problém internetu, trochu jsem popsal ty "méně děsivé" a populární věci o závislostech na TV/hrách/sociálních sítích/internetu.
