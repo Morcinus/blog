@@ -35,7 +35,7 @@ Možná si říkáte, jak by se mohlo změnit appa na apa? Vysvětlení by mohlo
 
 #### Apakrychle == otec?
 
-Význam slova Appa ovšem dále prohlubuje zmatení. Čím by mohly být Apakrychle otcem? Vesmíru? Lidstva? Všeho? Na tyto velice významné otázky ovšem nejsem schopný zodpovědět, jednak protože nejsem odborník na Apakrychle a jednak protože nemám čas, dělám progtest.
+Význam slova Appa ovšem dále prohlubuje zmatení. Čím by mohly být Apakrychle otcem? Vesmíru? Lidstva? Všeho? Na tyto velice významné otázky ovšem nejsem schopný odpovědět, jednak protože nejsem odborník na Apakrychle a jednak protože nemám čas, dělám progtest.
 
 ### Závěr
 
