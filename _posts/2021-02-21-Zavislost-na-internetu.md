@@ -21,11 +21,11 @@ Schválně, jak dlouho vydržíte bez mobilu, počítače nebo televize? Hodinu?
 
 ### Závislosti vám ničí život
 
-Možná si říkáte, že něco tak "drobného", jako jsou sociální sítě, nemůže nikomu uškodit. Vždyť to je přece _zábava_. U každého nového postu na sociální síti váš mozek vypustí _dopamin_ a podobné látky, které způsobují pocit zábavy a potěšení.
+Možná si říkáte, že něco tak "drobného", jako jsou sociální sítě, nemůže nikomu uškodit. Vždyť to je přece _zábava_. U každého nového postu na sociální síti váš mozek vypustí _dopamin_ a další látky, které způsobují pocit zábavy a potěšení.
 
-Problém ale je, že _opravdová zábava_ to je jen v případě, že mozek tyto látky vypouští jednou za čas a má _dostatek času na odpočinek_ od těchto látek. Váš mozek si musí odpočinout po tom, co vypustí větší množství _dopaminu apod._, jinak se neustále unavuje, stává se z toho závislost a vás samotné daná aktivita přestává bavit (protože ji děláte automaticky _podvědomě_ a zvykáte si na ten dopamin).
+Problém ale je, že _opravdová zábava_ to je jen v případě, že mozek tyto látky vypouští jednou za čas a má _dostatek času na odpočinek_. Váš mozek si musí odpočinout po tom, co vypustí větší množství _dopaminu apod._, jinak se neustále unavuje, stává se z toho závislost a vás samotné daná aktivita přestává bavit (protože ji děláte automaticky _podvědomě_ a zvykáte si na ten dopamin).
 
-Závislost způsobuje to, že pořád víc a víc toužíte po těchto látkách a ani nedáváte svému mozku šanci odpočinout. Každým půlhodinovým scrollováním na Instagramu (nebo nedej bože TikToku :D) předávkujete svůj mozek těmito látkami.
+Závislost způsobuje to, že pořád víc a víc toužíte po těchto látkách a ani nedáváte svému tělu šanci odpočinout. Každým půlhodinovým scrollováním na Instagramu (nebo nedej bože TikToku :D) předávkujete svůj mozek těmito látkami. 
 
 Toho si můžete jednoduše všimnout - už po několika minutách scrollování vás to tolik _nebaví_, jako dřív, a děláte to tak nějak _automaticky_.
 
@@ -37,7 +37,7 @@ Odpověď je prostá: peníze. Nechci vám ničit iluze, ale všechny tyto formy
 
 Problém je, že jste proti tomu téměř _bezbranní_. Představte si program, který navrhne 1000 lidí, kteří jsou mnohem chytřejší než vy. Tento program je sám neskutečně chytrý, dokáže se sám vyvíjet, sám zvládne pozorovat, co funguje a co ne. Ten program navrhnete přesně tak, aby udržel člověka co nejdéle u hry nebo sociální sítě. A jako třešničku na dortu mu předhodíte tisíce psychologických studií o tom, jak funguje lidský mozek, jak funguje lidská mysl a jaké má slabiny. A kdyby toho nebylo dost, u každého individuálního člověka, který tu hru/sociální síť používá, pozoruje, jak se chová, co na něj funguje a co ne. To ovšem nepozoruje na jednom, na deseti nebo na sto lidech. Každou _sekundu_ má **miliony** lidí, na kterých testuje, co funguje a co ne. No neříkejte mi, že to minimálně není pozoruhodný, jak proti němu nemáte šanci :D
 
-Možná si říkáte, že to moc dramatizuju, ale realita je opravdu taková. Dlouho a podrobně jsem studoval, jak funguje vývoj her, jaké psychologické jevy vývojáři využívají na to, aby vás u hry nebo sociální sítě udrželi co nejdéle.
+Možná si říkáte, že to moc dramatizuju, ale realita je opravdu taková. Docela dlouho jsem studoval, jak funguje vývoj her, jaké psychologické jevy vývojáři využívají na to, aby vás u hry nebo sociální sítě udrželi co nejdéle.
 
 O tom by šlo napsat celou knihu, takže to tu nebudu více rozebírat.. Když si představíte, jak špatné (z tohoto hlediska) jsou sociální sítě a vynásobíte to tak 50, tak teprve získáte zhruba reálnou představu, jak to je :)
 
@@ -57,9 +57,11 @@ Osobně jsem si dal už několik těchto 30-90 denních "detoxů" od her/TV/soci
 
 ### Co potom?
 
-Potom se můžete ke svému závislačení zase vrátit. Podle mého názoru je fajn sociální sítě/hry/TV používat. Jen se z toho nesmí stát závislost. Podle mě je supr si jednou za týden na hoďku nebo dvě zapnout dobrý film nebo oblíbenou hru. Pokud to celkově udržíte do 1-2h týdně, tak to je supr. Dokonce pak možná zjistíte, že vás to i víc baví, když dáváte mozku víc pauzu.
+Potom se můžete ke svému závislačení zase vrátit. Podle mého názoru je fajn sociální sítě/hry/TV používat. Jen se z toho nesmí stát *závislost*.  Podle mě je supr si jednou za týden na hoďku nebo dvě zapnout dobrý film nebo oblíbenou hru. Pokud to celkově udržíte do 1-2h týdně, tak to je supr. Dokonce pak možná zjistíte, že vás to i víc baví, když dáváte mozku víc pauzu na odpočinek.
 
 No nic, pokud to někdo dočetl až sem, tak jste dobrý :D Sice to bylo trochu negativní téma, ale myslím, že je docela důležitý o tomhle mluvit.
+
+Jestli zkusíte na chvíli omezit vaše závislosti, tak budu držet palce. Určitě to stojí za to :D
 
 ### Odkazy:
 
