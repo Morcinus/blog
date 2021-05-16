@@ -7,7 +7,7 @@ Znovu si promnul oči a postavil se. Tentokrát snad úspěšeně. Položil dla�
 
 V očích bylo vidět mírné překvapení a zděšení, ale jinak nedaly nic znát. Muž vydechl a posadil se u stěny na zem, hlavu ve dlaních.
 
-"Vodu.. prosím" téměř zašeptal vyčerpaně. Napětí v místnosti rostlo. Slečny se na sebe nervózně podívaly. "Prosím" řekl naléhavým tónem. 
+"Vodu.. prosím" téměř zašeptal vyčerpaně. Napětí v místnosti rostlo. Slečny se na sebe nervózně podívaly. "Prosím" řekl naléhavým tónem.
 
 Zavřel oči. Hluboce dýchal. Nebyl kuřák, ale dýchalo se mu těžce. Cítil, jak mu slábne tělo, jak se mu klepou ruce. Byl celý promočený a venku byla zima. Jaký normální člověk by chodil ve 3 v noci v takovém dešti po Praze..
 
@@ -29,13 +29,13 @@ Můž vstal: "No, to nevím."
 
 Můž byl přemýšlivé povahy, mladý student. Poměrně chytrý.
 
-"Proč jsem tu?" zeptal.
+"Proč jsem tu?" zeptal se.
 
 Vědomí, jako by bylo rádo, že se konečně zeptal, odvětilo: "Dobře že se ptáš. Jsou různé důvody, proč lidé upadají do bezvědomí.."
 
 "Já jsem v bezvědomí?" pomyslel si muž. "Správně. Jsi docela bystrý, jako vždy" odvětilo vědomí.
 
-"Sakra a tenhle úchyl mi ještě čte myšlenky" mu prolétlo hlavou.. "Hele, nejsem žádnej úchyl. Jsem tvé vědomí. Jsem součástí tebe. Zavolal jsem si tě sem. Nebýt mě, tak pořád sedíš v tom promrzlém fast foodu a ještě bys začal mít ty tvé opilecké nálady..."
+"Sakra a tenhle úchyl mi ještě čte myšlenky" prolétlo mu hlavou.. "Hele, nejsem žádnej úchyl. Jsem tvé vědomí. Jsem součástí tebe. Zavolal jsem si tě sem. Nebýt mě, tak pořád sedíš v tom promrzlém fast foodu a ještě bys začal mít ty tvé opilecké nálady..."
 
 "Počkat, počkat. To mi chceš říct, že jsem upadl do bezvědomí kvůli tobě?"
 
@@ -51,7 +51,7 @@ Muž se na chvíli zamyslel. Posadil se...
 
 "Víš, už to nebylo snesitelné tě sledovat, jak bezhlavě ztrácíš dny svého života."
 
-"Ztrácím dny?" pronesl tiše muž "Vždyt studuju vejšku, pracuju, sportuju, snažím se -". 
+"Ztrácím dny?" pronesl tiše muž "Vždyt studuju vejšku, pracuju, sportuju, snažím se -".
 
 "To je podle tebe život?" přerušelo ho vědomí.
 
@@ -67,7 +67,7 @@ Muž se pral se svými myšlenkami. Byl přirozeně přemýšlivý, ale tohle ne
 
 ---
 
-"Co mám dělat?" zeptal se.
+"Co mám dělat?" zeptal se po chvíli.
 
 "Na to si musíš odpovědět sám" řeklo vědomí.
 
